@@ -68,7 +68,7 @@ export default function Profile() {
             fontSize: "3rem",
             marginBottom: "0.5rem",
           }}>
-            👋
+            
           </div>
           <h1 style={{
             fontFamily: "'DM Serif Display', serif",
@@ -117,7 +117,7 @@ export default function Profile() {
               fontSize: "1.5rem",
               color: C.amber,
             }}>
-              👤
+              
             </div>
             <div style={{ flex: 1 }}>
               <div style={{
@@ -165,7 +165,7 @@ export default function Profile() {
               fontSize: "1.5rem",
               color: C.amber,
             }}>
-              📧
+              
             </div>
             <div style={{ flex: 1 }}>
               <div style={{
@@ -213,7 +213,7 @@ export default function Profile() {
               fontSize: "1.5rem",
               color: C.amber,
             }}>
-              🆔
+    
             </div>
             <div style={{ flex: 1 }}>
               <div style={{
@@ -261,7 +261,7 @@ export default function Profile() {
               fontSize: "1.5rem",
               color: C.amber,
             }}>
-              💼
+    
             </div>
             <div style={{ flex: 1 }}>
               <div style={{
@@ -362,7 +362,7 @@ export default function Profile() {
             e.currentTarget.style.boxShadow = "0 4px 15px rgba(245,130,31,0.3)";
           }}
         >
-          🏠 Back to Home
+          Back to Home
         </button>
 
         {/* Logout Button */}
@@ -398,7 +398,7 @@ export default function Profile() {
             e.currentTarget.style.background = "#ff6b6b";
           }}
         >
-          🚪 Logout
+           Logout
         </button>
       </div>
     </div>
